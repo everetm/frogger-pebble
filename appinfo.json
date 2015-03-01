@@ -1,0 +1,74 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "me@purdue.edu",
+    "longName": "Froggy",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/froglarge.png",
+                "name": "FROGF",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/frogger1.png",
+                "name": "BACKGROUND2",
+                "type": "png"
+            },
+            {
+                "file": "images/turtle.png",
+                "name": "turtleIMG",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/tree.png",
+                "name": "treeIMG",
+                "type": "png"
+            },
+            {
+                "file": "images/twoTurtles.png",
+                "name": "twoTurtlesIMG",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/carRight.png",
+                "name": "carRightIMG",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/carLeft.png",
+                "name": "carLeftIMG",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/skull.png",
+                "name": "skullIMG",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/frogRight.png",
+                "name": "frogRightIMG",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/frogLeft.png",
+                "name": "frontLeftIMG",
+                "type": "png-trans"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Froggy",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "0c9b8cdb-6855-4939-be54-a18bdf15c4e3",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
